@@ -1,2 +1,2 @@
-# JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+# JPMC Task Solution Repo - by Sharvai Patil
+Solution for the JPMC Forage Tasks
